@@ -1,0 +1,14 @@
+layout_spectrum: 0.1851064
+color:
+  saturation: 0.4700761
+  lightness: 0.3676337
+  brandStrength: 0.5935962
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#6B3B32'
+    - '#FF8870'
+    - '#A4ADAE'
+  rhythmicContrast: 0.0775877
+typography_spectrum: 0.3744681
+name: StephanieMcKenzie.yoga
